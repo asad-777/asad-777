@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @asad-777
 - 👀 I’m interested in Programming and Music Production
-- 📫 How to reach me ... instagram ~ ( realaxsd ) ~
+- I an currently learning Cloud Navtive Engenering and Generative AI
+- I am also doing cs50x from Harvard University
 - ⚡ Fun fact: ... I am boring
