@@ -1,4 +1,4 @@
-# Hi there, I'm [M.Asad] 👋
+# Hi there, I'm M.Asad 👋
 
 Welcome to my GitHub profile! I'm an aspiring software developer with a keen interest in finance, web development, and music production. Here's a bit about me:
 
