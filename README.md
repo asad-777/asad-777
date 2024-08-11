@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a keen int
 
 ## Skills
 
-- **Programming Languages:** C, HTML, CSS, JavaScript
+- **Programming Languages:** C, HTML, CSS, JavaScript,Python
 - **Tools & Technologies:** FL Studio for music and Essential programming softwares on Windows and Linux.
 - **Frameworks:** React, Bootstrap.
 
