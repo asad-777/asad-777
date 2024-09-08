@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 Hi! I am M. Asad Amir
 
-i am currently working on web development, cloud native web engenering, generative ai, android ap development, dsa in c and c++<br>
+I am currently working on Web Development, Cloud Native Web Engenering, Generative Ai, Android app development ( Kotlin ), Dsa in c and c++<br>
 
 # 💻 Tech Stack:
 
