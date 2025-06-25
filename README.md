@@ -1,6 +1,5 @@
 # 💫 Hi! I am M. Asad Amir
 
-# 💫 About Me:
 Ima boring dude
 
 
