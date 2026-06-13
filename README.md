@@ -23,7 +23,7 @@
 
 Check my personal website at [asadamir.vercel.app](https://asadamir.vercel.app)
 
-
+<br><br>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
@@ -81,7 +81,7 @@ Check my personal website at [asadamir.vercel.app](https://asadamir.vercel.app)
 </div>
 
 
-
+<br><br>
 <h3 align="left">🔥   My Stats :</h3>
 
 
