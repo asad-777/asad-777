@@ -14,20 +14,15 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <h1 align="center">Asad Here ✌️</h1>
 
-###
 
 <p align="left">A student and Full-Stack Developer with a self-taught background in Web and AI development.<br><br>I work with Next.js and FastAPI, using Python & JavaScript to make beautiful projects.<br>I have also experimented with CrewAI and LangChain for building agentic and AI-integrated applications.<br><br>I’m currently expanding my knowledge of APIs, databases, and deployment workflows while improving my development practices through personal projects and freelancing.<br><br>
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -83,11 +78,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <br clear="both">
 
@@ -96,4 +91,4 @@
   <img src="https://raw.githubusercontent.com/asad-777/asad-777/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
-###
+
