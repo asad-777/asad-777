@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/masadamir" target="_blank">
+  <a href="https://www.linkedin.com/in/masadamir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/_asad_777" target="_blank">
@@ -20,6 +20,8 @@
 
 
 <p align="left">A student and Full-Stack Developer with a self-taught background in Web and AI development.<br><br>I work with Next.js and FastAPI, using Python & JavaScript to make beautiful projects.<br>I have also experimented with CrewAI and LangChain for building agentic and AI-integrated applications.<br><br>I’m currently expanding my knowledge of APIs, databases, and deployment workflows while improving my development practices through personal projects and freelancing.<br><br>
+
+Check my personal website at [asadamir.vercel.app](https://asadamir.vercel.app)
 
 
 <h3 align="left">🛠 Language and tools</h3>
