@@ -24,8 +24,7 @@
 
 ###
 
-<p align="left">A student and Full-Stack Developer with a self-taught background in Web and AI development.<br><br>I work with Next.js and FastAPI, using Python & JavaScript to make beautiful projects.<br>I have also experimented with CrewAI and LangChain for building agentic and AI-integrated applications.<br><br>I’m currently expanding my knowledge of APIs, databases, and deployment workflows while improving my development practices through personal projects and freelancing.<br><br>Check out my personal Website at <a href="asadamir.vercel.app">asadamir.vercel.app</a></p>
-
+<p align="left">A student and Full-Stack Developer with a self-taught background in Web and AI development.<br><br>I work with Next.js and FastAPI, using Python & JavaScript to make beautiful projects.<br>I have also experimented with CrewAI and LangChain for building agentic and AI-integrated applications.<br><br>I’m currently expanding my knowledge of APIs, databases, and deployment workflows while improving my development practices through personal projects and freelancing.<br><br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
