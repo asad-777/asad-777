@@ -81,16 +81,4 @@ Check my personal website at [asadamir.vercel.app](https://asadamir.vercel.app)
 </div>
 
 
-<br><br>
-<h3 align="left">🔥   My Stats :</h3>
-
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asad-777&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/asad-777/asad-777/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
 
